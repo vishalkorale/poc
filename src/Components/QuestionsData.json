@@ -1,0 +1,139 @@
+[
+    {
+      "question": "What is the output of the following Java code snippet?\n\n```java\npublic class Main {\n  public static void main(String[] args) {\n    int x = 5;\n    int y = 2;\n    System.out.println(x + y);\n  }\n}\n```",
+      "options": [
+        "7",
+        "5",
+        "2",
+        "Compiler error"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "What is the size of int variable in Java?",
+      "options": [
+        "8 bits",
+        "16 bits",
+        "32 bits",
+        "64 bits"
+      ],
+      "answer": "32 bits"
+    },
+    {
+      "question": "Which keyword is used for inheritance in Java?",
+      "options": [
+        "super",
+        "this",
+        "extends",
+        "implements"
+      ],
+      "answer": "extends"
+    },
+    {
+      "question": "What is the correct way to declare a constant in Java?",
+      "options": [
+        "final int constant = 10;",
+        "int constant = 10;",
+        "const int constant = 10;",
+        "static final int constant = 10;"
+      ],
+      "answer": "static final int constant = 10;"
+    },
+    {
+      "question": "Which of the following is not a valid Java identifier?",
+      "options": [
+        "my_variable",
+        "_myVariable",
+        "$myVariable",
+        "2myVariable"
+      ],
+      "answer": "2myVariable"
+    },
+    {
+      "question": "What will be the output of the following Java code snippet?\n\n```java\npublic class Main {\n  public static void main(String[] args) {\n    String str = \"Hello\";\n    System.out.println(str.substring(0, 3));\n  }\n}\n```",
+      "options": [
+        "Hello",
+        "Hell",
+        "ell",
+        "H"
+      ],
+      "answer": "Hel"
+    },
+    {
+      "question": "Which method is used to initialize an object in Java?",
+      "options": [
+        "init()",
+        "initialize()",
+        "start()",
+        "constructor()"
+      ],
+      "answer": "constructor()"
+    },
+    {
+      "question": "What is the output of the following Java code snippet?\n\n```java\npublic class Main {\n  public static void main(String[] args) {\n    int[] arr = {1, 2, 3, 4, 5};\n    System.out.println(arr.length);\n  }\n}\n```",
+      "options": [
+        "5",
+        "4",
+        "Compilation error",
+        "Runtime error"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Which of the following is not a Java keyword?",
+      "options": [
+        "abstract",
+        "interface",
+        "unsigned",
+        "native"
+      ],
+      "answer": "unsigned"
+    },
+    {
+      "question": "What is the output of the following Java code snippet?\n\n```java\npublic class Main {\n  public static void main(String[] args) {\n    int x = 10;\n    if (x > 5) {\n      System.out.println(\"x is greater than 5\");\n    } else {\n      System.out.println(\"x is less than or equal to 5\");\n    }\n  }\n}\n```",
+      "options": [
+        "x is greater than 5",
+        "x is less than or equal to 5",
+        "Compilation error",
+        "Runtime error"
+      ],
+      "answer": "x is greater than 5"
+    },
+    {
+      "question": "Which of the following is not a principle of object-oriented programming?",
+      "options":[
+        "Encapsulation",
+         "Inheritance", 
+         "Abstraction", 
+         "Recursion"
+      ],
+      "answer": "Recursion"
+    },
+    {
+      "question": "Which of the following best describes inheritance in object-oriented programming?",
+      "options":[
+        "The ability of an object to take on many forms",
+         "The process of creating a new object from an existing one",
+          "The ability to define multiple methods with the same name but different implementations",
+           "The ability of a class to inherit properties and behavior from another class"
+      ],
+      "answer": "The ability of a class to inherit properties and behavior from another class"
+    }
+    ,
+    {
+      "question": "Which object-oriented principle allows a class to have multiple methods with the same name but different implementations?",
+      "options":[
+        "Encapsulation",
+         "Polymorphism", 
+         "Abstraction", 
+         "Inheritance"
+      ],
+      "answer": "Polymorphism"
+    }
+
+
+
+
+
+  ]
+  
